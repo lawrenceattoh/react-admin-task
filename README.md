@@ -1,15 +1,15 @@
 
-# 📚 React Admin Interface – Books & Authors Management
+# React Admin Interface – Books & Authors Management
 
 This project implements a fully functional CRUD admin interface using [React Admin](https://marmelab.com/react-admin/), powered by a mock backend via `json-server`. It satisfies all task requirements and demonstrates modular, type-safe frontend architecture.
 
 ---
 
-## 🚀 Features
+## Features
 
-### ✅ Book Management
+### Book Management
 
-* 📋 List all books with:
+* List all books with:
 
   * Title, Author (resolved via reference), Published Year, Genre, Description
   * Search by Title
@@ -17,7 +17,7 @@ This project implements a fully functional CRUD admin interface using [React Adm
   * Sortable & paginated table
   * Bulk delete action
 
-* ✏️ Edit books:
+* Edit books:
 
   * Editable fields: `title`, `authorId`, `publishedYear`, `genre`, `description`
   * Reusable `<AuthorReferenceInput />` component used
@@ -30,9 +30,9 @@ This project implements a fully functional CRUD admin interface using [React Adm
 
 ---
 
-### ✅ Author Management (Bonus)
+### Author Management (Bonus)
 
-* 📋 List all authors with:
+* List all authors with:
 
   * Name, Birth Year, Bio
 * ✏️ Edit and ➕ Create authors with validation-ready fields
@@ -85,7 +85,7 @@ npm run start
 
 ---
 
-## 📦 Available Scripts
+## Available Scripts
 
 ```json
 "scripts": {
@@ -109,7 +109,7 @@ npm run start
 
 ---
 
-## 🧠 Author 
+## Author 
 
 **Lawrence Attoh**
 Frontend Developer | MSc AI (University of Surrey)
