@@ -1,0 +1,434 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "authorId": 1,
+      "publishedYear": 1949,
+      "genre": "Dystopian",
+      "description": "A chilling tale of a totalitarian regime and surveillance."
+    },
+    {
+      "id": 2,
+      "title": "Brave New World",
+      "authorId": 2,
+      "publishedYear": 1932,
+      "genre": "Science Fiction",
+      "description": "A futuristic world driven by technology and control."
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "authorId": 3,
+      "publishedYear": 1960,
+      "genre": "Fiction",
+      "description": "A deep look at racial injustice in the Deep South."
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "authorId": 4,
+      "publishedYear": 1925,
+      "genre": "Classic",
+      "description": "A critique of the American dream set in the Jazz Age."
+    },
+    {
+      "id": 5,
+      "title": "Moby Dick",
+      "authorId": 5,
+      "publishedYear": 1851,
+      "genre": "Adventure",
+      "description": "The obsessive quest of Ahab for the white whale."
+    },
+    {
+      "id": 6,
+      "title": "Pride and Prejudice",
+      "authorId": 6,
+      "publishedYear": 1813,
+      "genre": "Romance",
+      "description": "A classic novel of manners, marriage, and love."
+    },
+    {
+      "id": 7,
+      "title": "Jane Eyre",
+      "authorId": 7,
+      "publishedYear": 1847,
+      "genre": "Gothic",
+      "description": "A woman’s quest for freedom and love in Victorian England."
+    },
+    {
+      "id": 8,
+      "title": "The Catcher in the Rye",
+      "authorId": 8,
+      "publishedYear": 1951,
+      "genre": "Coming-of-Age",
+      "description": "The alienation of teenage Holden Caulfield."
+    },
+    {
+      "id": 9,
+      "title": "Crime and Punishment",
+      "authorId": 9,
+      "publishedYear": 1866,
+      "genre": "Philosophical",
+      "description": "A psychological drama of guilt and redemption."
+    },
+    {
+      "id": 10,
+      "title": "The Brothers Karamazov",
+      "authorId": 9,
+      "publishedYear": 1880,
+      "genre": "Philosophical",
+      "description": "A spiritual drama on morality, free will, and God."
+    },
+    {
+      "id": 11,
+      "title": "Wuthering Heights",
+      "authorId": 10,
+      "publishedYear": 1847,
+      "genre": "Tragedy",
+      "description": "An intense tale of passion and revenge."
+    },
+    {
+      "id": 12,
+      "title": "Frankenstein",
+      "authorId": 11,
+      "publishedYear": 1818,
+      "genre": "Horror",
+      "description": "A scientist creates life with tragic consequences."
+    },
+    {
+      "id": 13,
+      "title": "Dracula",
+      "authorId": 12,
+      "publishedYear": 1897,
+      "genre": "Horror",
+      "description": "The legendary vampire Count Dracula arrives in England."
+    },
+    {
+      "id": 14,
+      "title": "Anna Karenina",
+      "authorId": 13,
+      "publishedYear": 1877,
+      "genre": "Drama",
+      "description": "A tragic love story amidst Russian aristocracy."
+    },
+    {
+      "id": 15,
+      "title": "War and Peace",
+      "authorId": 13,
+      "publishedYear": 1869,
+      "genre": "Historical",
+      "description": "A sweeping saga of Napoleon's invasion of Russia."
+    },
+    {
+      "id": 16,
+      "title": "The Hobbit",
+      "authorId": 14,
+      "publishedYear": 1937,
+      "genre": "Fantasy",
+      "description": "Bilbo Baggins embarks on an epic adventure."
+    },
+    {
+      "id": 17,
+      "title": "The Fellowship of the Ring",
+      "authorId": 14,
+      "publishedYear": 1954,
+      "genre": "Fantasy",
+      "description": "The first part of the epic Lord of the Rings."
+    },
+    {
+      "id": 18,
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "authorId": 15,
+      "publishedYear": 1997,
+      "genre": "Fantasy",
+      "description": "A boy discovers he is a wizard on his 11th birthday."
+    },
+    {
+      "id": 19,
+      "title": "The Da Vinci Code",
+      "authorId": 16,
+      "publishedYear": 2003,
+      "genre": "Thriller",
+      "description": "A symbologist unravels a Vatican conspiracy."
+    },
+    {
+      "id": 20,
+      "title": "Angels and Demons",
+      "authorId": 16,
+      "publishedYear": 2000,
+      "genre": "Thriller",
+      "description": "A secret brotherhood and a hidden weapon threaten the Vatican."
+    },
+    {
+      "id": 21,
+      "title": "The Alchemist",
+      "authorId": 17,
+      "publishedYear": 1988,
+      "genre": "Inspirational",
+      "description": "A shepherd's journey to fulfill his personal legend."
+    },
+    {
+      "id": 22,
+      "title": "The Book Thief",
+      "authorId": 18,
+      "publishedYear": 2005,
+      "genre": "Historical",
+      "description": "A young girl finds solace in books during WWII Germany."
+    },
+    {
+      "id": 23,
+      "title": "The Road",
+      "authorId": 19,
+      "publishedYear": 2006,
+      "genre": "Post-Apocalyptic",
+      "description": "A father and son journey through a burned America."
+    },
+    {
+      "id": 24,
+      "title": "Beloved",
+      "authorId": 20,
+      "publishedYear": 1987,
+      "genre": "Historical",
+      "description": "The haunting legacy of slavery."
+    },
+    {
+      "id": 25,
+      "title": "The Kite Runner",
+      "authorId": 21,
+      "publishedYear": 2003,
+      "genre": "Drama",
+      "description": "A story of friendship, betrayal, and redemption."
+    },
+    {
+      "id": 26,
+      "title": "Life of Pi",
+      "authorId": 22,
+      "publishedYear": 2001,
+      "genre": "Adventure",
+      "description": "A boy stranded at sea with a Bengal tiger."
+    },
+    {
+      "id": 27,
+      "title": "Siddhartha",
+      "authorId": 23,
+      "publishedYear": 1922,
+      "genre": "Philosophical",
+      "description": "A spiritual journey in ancient India."
+    },
+    {
+      "id": 28,
+      "title": "Fahrenheit 451",
+      "authorId": 24,
+      "publishedYear": 1953,
+      "genre": "Dystopian",
+      "description": "A society where books are burned to suppress thought."
+    },
+    {
+      "id": 29,
+      "title": "The Shining",
+      "authorId": 25,
+      "publishedYear": 1977,
+      "genre": "Horror",
+      "description": "A haunted hotel drives a man into madness."
+    },
+    {
+      "id": 30,
+      "title": "A Game of Thrones",
+      "authorId": 26,
+      "publishedYear": 1996,
+      "genre": "Fantasy",
+      "description": "Noble families vie for control of the Iron Throne."
+    },
+    {
+      "title": "Mr",
+      "authorId": 16,
+      "publishedYear": 2011,
+      "genre": "Sci Fi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n",
+      "id": 31
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "George Orwell",
+      "birthYear": 1903,
+      "bio": "British novelist and essayist, known for his critiques of totalitarianism."
+    },
+    {
+      "id": 2,
+      "name": "Aldous Huxley",
+      "birthYear": 1894,
+      "bio": "English writer and philosopher best known for Brave New World."
+    },
+    {
+      "id": 3,
+      "name": "Harper Lee",
+      "birthYear": 1926,
+      "bio": "American novelist famous for To Kill a Mockingbird."
+    },
+    {
+      "id": 4,
+      "name": "F. Scott Fitzgerald",
+      "birthYear": 1896,
+      "bio": "American author of the Jazz Age."
+    },
+    {
+      "id": 5,
+      "name": "Herman Melville",
+      "birthYear": 1819,
+      "bio": "American novelist of sea adventures."
+    },
+    {
+      "id": 6,
+      "name": "Jane Austen",
+      "birthYear": 1775,
+      "bio": "Renowned for her novels on British landed gentry."
+    },
+    {
+      "id": 7,
+      "name": "Charlotte Brontë",
+      "birthYear": 1816,
+      "bio": "British novelist and poet."
+    },
+    {
+      "id": 8,
+      "name": "J.D. Salinger",
+      "birthYear": 1919,
+      "bio": "American writer known for The Catcher in the Rye."
+    },
+    {
+      "id": 9,
+      "name": "Fyodor Dostoevsky",
+      "birthYear": 1821,
+      "bio": "Russian novelist exploring existentialism and psychology."
+    },
+    {
+      "id": 10,
+      "name": "Emily Brontë",
+      "birthYear": 1818,
+      "bio": "British poet and author of Wuthering Heights."
+    },
+    {
+      "id": 11,
+      "name": "Mary Shelley",
+      "birthYear": 1797,
+      "bio": "English novelist best known for Frankenstein."
+    },
+    {
+      "id": 12,
+      "name": "Bram Stoker",
+      "birthYear": 1847,
+      "bio": "Irish author of Dracula."
+    },
+    {
+      "id": 13,
+      "name": "Leo Tolstoy",
+      "birthYear": 1828,
+      "bio": "Russian author of epic novels."
+    },
+    {
+      "id": 14,
+      "name": "J.R.R. Tolkien",
+      "birthYear": 1892,
+      "bio": "English writer of Middle-earth fantasy novels."
+    },
+    {
+      "id": 15,
+      "name": "J.K. Rowling",
+      "birthYear": 1965,
+      "bio": "British author of the Harry Potter series."
+    },
+    {
+      "id": 16,
+      "name": "Dan Brown",
+      "birthYear": 1964,
+      "bio": "American author of thriller fiction."
+    },
+    {
+      "id": 17,
+      "name": "Paulo Coelho",
+      "birthYear": 1947,
+      "bio": "Brazilian lyricist and novelist."
+    },
+    {
+      "id": 18,
+      "name": "Markus Zusak",
+      "birthYear": 1975,
+      "bio": "Australian author of The Book Thief."
+    },
+    {
+      "id": 19,
+      "name": "Cormac McCarthy",
+      "birthYear": 1933,
+      "bio": "American novelist of sparse prose and bleak settings."
+    },
+    {
+      "id": 20,
+      "name": "Toni Morrison",
+      "birthYear": 1931,
+      "bio": "American novelist noted for examining the Black experience."
+    },
+    {
+      "id": 21,
+      "name": "Khaled Hosseini",
+      "birthYear": 1965,
+      "bio": "Afghan-American author of The Kite Runner."
+    },
+    {
+      "id": 22,
+      "name": "Yann Martel",
+      "birthYear": 1963,
+      "bio": "Canadian author of Life of Pi."
+    },
+    {
+      "id": 23,
+      "name": "Hermann Hesse",
+      "birthYear": 1877,
+      "bio": "German-Swiss poet, novelist, and painter."
+    },
+    {
+      "id": 24,
+      "name": "Ray Bradbury",
+      "birthYear": 1920,
+      "bio": "American author of science fiction and dystopian literature."
+    },
+    {
+      "id": 25,
+      "name": "Stephen King",
+      "birthYear": 1947,
+      "bio": "Prolific American writer of horror and suspense."
+    },
+    {
+      "id": 26,
+      "name": "George R.R. Martin",
+      "birthYear": 1948,
+      "bio": "American novelist and screenwriter of fantasy fiction."
+    },
+    {
+      "id": 27,
+      "name": "Virginia Woolf",
+      "birthYear": 1882,
+      "bio": "Modernist English writer known for stream-of-consciousness."
+    },
+    {
+      "id": 28,
+      "name": "Chinua Achebe",
+      "birthYear": 1930,
+      "bio": "Nigerian author of postcolonial literature."
+    },
+    {
+      "id": 29,
+      "name": "Margaret Atwood",
+      "birthYear": 1939,
+      "bio": "Canadian author known for speculative fiction."
+    },
+    {
+      "id": 30,
+      "name": "Gabriel García Márquez",
+      "birthYear": 1927,
+      "bio": "Colombian novelist of magical realism."
+    }
+  ]
+}
